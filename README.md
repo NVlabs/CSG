@@ -119,11 +119,10 @@ python train_seg.py \
 If you use this code for your research, please cite:
  
 ```BibTeX
-@inproceedings{chen2020automated,
- author = {Chen, Wuyang and Yu, Zhiding and Shalini De Mello and Sifei Liu and Jose M. Alvarez and Wang, Zhangyang and Anandkumar, Anima},
- booktitle = {},
- pages = {},
- title = {Contrastive Syn-to-Real Generalization},
- year = {2021}
+@article{chen2021contrastive,
+  title={Contrastive syn-to-real generalization},
+  author={Chen, Wuyang and Yu, Zhiding and Mello, SD and Liu, Sifei and Alvarez, Jose M and Wang, Zhangyang and Anandkumar, Anima},
+  year={2021},
+  publisher={ICLR}
 }
 ```
