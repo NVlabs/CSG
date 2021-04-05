@@ -22,7 +22,7 @@ In ICLR 2021.
 * Download [Visda-17 Dataset](http://ai.bu.edu/visda-2017/#download)
 
 #### Evaluation
-* Download [pretrained ResNet101 on Visda17](https://drive.google.com/file/d/XXX)
+* Download [pretrained ResNet101 on Visda17](https://drive.google.com/file/d/1VdbrwevsYy7I5S3Wo7-S3MwrZZjj09QS/view?usp=sharing)
 * Put the checkpoint under `./CSG/pretrained/`
 * Put the code below in `train.sh`
 ```bash
@@ -68,7 +68,7 @@ python train.py \
 * **Remember to properly set the `C.dataset_path` in the `config_seg.py` to the path where datasets reside.**
 
 #### Evaluation
-* Download pretrained [DeepLabV2-ResNet50]() and [DeepLabV2-ResNet101]() on GTA5
+* Download pretrained [DeepLabV2-ResNet50](https://drive.google.com/file/d/1E2CosTtGVgIe6BfLBV9vNmyj6l9aYUbk/view?usp=sharing) and [DeepLabV2-ResNet101](https://drive.google.com/file/d/17Pe86m4OCGMFLcxLl_V-1bcG5otOqdvb/view?usp=sharing) on GTA5
 * Put the checkpoint under `./CSG/pretrained/`
 * Put the code below in `train_seg.sh`
 ```bash
