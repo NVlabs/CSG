@@ -3,7 +3,7 @@
 # CSG: Contrastive Syn-to-Real Generalization
  
 <!-- ### [Project](https://) | [Paper](https://arxiv.org/abs/XXX) -->
-[Paper](https://arxiv.org/abs/XXX)
+[Paper](https://arxiv.org/abs/2104.02290)
  
 Contrastive Syn-to-Real Generalization.<br>
 [Wuyang Chen](https://chenwydj.github.io/), [Zhiding Yu](https://chrisding.github.io/), [Shalini De Mello](https://research.nvidia.com/person/shalini-gupta), [Sifei Liu](https://www.sifeiliu.net/), [Jose M. Alvarez](https://rsu.data61.csiro.au/people/jalvarez/), [Zhangyang Wang](https://www.atlaswang.com/), [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/).<br>
